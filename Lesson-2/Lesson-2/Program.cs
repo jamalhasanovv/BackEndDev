@@ -4,18 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace hello_world_from_youtube
+namespace Lesson_3
 {
     internal class Program
     {
-        // Ekranda gorunmeler
         static void Main(string[] args)
         {
 
             Console.WriteLine("Hello Team ");
             Console.WriteLine("My Name is Camal Hasanov");
 
-            Console.WriteLine("i have job and"+" "+ "i am learning code "  );
+            Console.WriteLine("i have job and" + " " + "i am learning code ");
 
 
             Console.WriteLine("i am so eager about coding");
@@ -29,7 +28,6 @@ namespace hello_world_from_youtube
 
 
             Console.ReadLine();
-
         }
     }
 }
