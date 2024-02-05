@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Calculator with ifelse\bin\Debug\Calculator with ifelse.exe.config
+C:\Users\User\Desktop\Calculator with ifelse\bin\Debug\Calculator with ifelse.exe
+C:\Users\User\Desktop\Calculator with ifelse\bin\Debug\Calculator with ifelse.pdb
+C:\Users\User\Desktop\Calculator with ifelse\obj\Debug\Calculator with ifelse.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Calculator with ifelse\obj\Debug\Calculator with ifelse.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Calculator with ifelse\obj\Debug\Calculator with ifelse.exe
+C:\Users\User\Desktop\Calculator with ifelse\obj\Debug\Calculator with ifelse.pdb
+C:\Users\User\Desktop\Tasks\Calculator with ifelse\bin\Debug\Calculator with ifelse.exe.config
+C:\Users\User\Desktop\Tasks\Calculator with ifelse\bin\Debug\Calculator with ifelse.exe
+C:\Users\User\Desktop\Tasks\Calculator with ifelse\bin\Debug\Calculator with ifelse.pdb
+C:\Users\User\Desktop\Tasks\Calculator with ifelse\obj\Debug\Calculator with ifelse.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tasks\Calculator with ifelse\obj\Debug\Calculator with ifelse.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tasks\Calculator with ifelse\obj\Debug\Calculator with ifelse.exe
+C:\Users\User\Desktop\Tasks\Calculator with ifelse\obj\Debug\Calculator with ifelse.pdb
