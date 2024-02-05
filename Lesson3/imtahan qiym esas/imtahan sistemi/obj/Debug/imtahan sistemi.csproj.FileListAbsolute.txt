@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Tasks\imtahan qiym\imtahan sistemi\bin\Debug\imtahan sistemi.exe.config
+C:\Users\User\Desktop\Tasks\imtahan qiym\imtahan sistemi\bin\Debug\imtahan sistemi.exe
+C:\Users\User\Desktop\Tasks\imtahan qiym\imtahan sistemi\bin\Debug\imtahan sistemi.pdb
+C:\Users\User\Desktop\Tasks\imtahan qiym\imtahan sistemi\obj\Debug\imtahan sistemi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tasks\imtahan qiym\imtahan sistemi\obj\Debug\imtahan sistemi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tasks\imtahan qiym\imtahan sistemi\obj\Debug\imtahan sistemi.exe
+C:\Users\User\Desktop\Tasks\imtahan qiym\imtahan sistemi\obj\Debug\imtahan sistemi.pdb
+C:\Users\User\Desktop\Tasks\imtahan qiym esas\imtahan sistemi\bin\Debug\imtahan sistemi.exe.config
+C:\Users\User\Desktop\Tasks\imtahan qiym esas\imtahan sistemi\bin\Debug\imtahan sistemi.exe
+C:\Users\User\Desktop\Tasks\imtahan qiym esas\imtahan sistemi\bin\Debug\imtahan sistemi.pdb
+C:\Users\User\Desktop\Tasks\imtahan qiym esas\imtahan sistemi\obj\Debug\imtahan sistemi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tasks\imtahan qiym esas\imtahan sistemi\obj\Debug\imtahan sistemi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tasks\imtahan qiym esas\imtahan sistemi\obj\Debug\imtahan sistemi.exe
+C:\Users\User\Desktop\Tasks\imtahan qiym esas\imtahan sistemi\obj\Debug\imtahan sistemi.pdb
