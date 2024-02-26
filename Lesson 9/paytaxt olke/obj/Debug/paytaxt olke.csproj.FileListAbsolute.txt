@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tasks\paytaxt olke\bin\Debug\paytaxt olke.exe.config
+C:\Users\User\Desktop\Tasks\paytaxt olke\bin\Debug\paytaxt olke.exe
+C:\Users\User\Desktop\Tasks\paytaxt olke\bin\Debug\paytaxt olke.pdb
+C:\Users\User\Desktop\Tasks\paytaxt olke\obj\Debug\paytaxt olke.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tasks\paytaxt olke\obj\Debug\paytaxt olke.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tasks\paytaxt olke\obj\Debug\paytaxt olke.exe
+C:\Users\User\Desktop\Tasks\paytaxt olke\obj\Debug\paytaxt olke.pdb
